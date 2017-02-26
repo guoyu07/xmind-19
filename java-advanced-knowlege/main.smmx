@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE simplemind-mindmaps>
+
+<simplemind-mindmaps doc-version="3" generator="SimpleMindOSXN" gen-version="1.15.2">
+    <mindmap>
+        <meta>
+            <guid guid="7D4EDE7312B475C6128B9F7C"></guid>
+            <title text="Java Advanced Programming"></title>
+            <style key="system.soft-palette"></style>
+            <auto-numbering style="disabled"></auto-numbering>
+            <scrollstate zoom="97" x="-197.33" y="-715.59"></scrollstate>
+            <main-centraltheme id="0"></main-centraltheme>
+        </meta>
+        <topics>
+            <topic id="0" parent="-1" guid="YRHKADcMDw0HJ0KwDmddVw" x="-209.05" y="-350.12" layout="strict-horizontal" layout-direction="right" palette="1" colorinfo="1" text=" Java Advanced Programming"></topic>
+            <topic id="1" parent="0" guid="Tec8UCBJRe9MOnIXWa1ULg" x="31.48" y="-1220.31" palette="2" colorinfo="2" text="JVM"></topic>
+            <topic id="2" parent="1" guid="NSdyTig1wQJUQRaGYnJ7gQ" x="143.10" y="-1545.75" text="JMM"></topic>
+            <topic id="3" parent="2" guid="c04JB0lzdcUQfOVjBL8QMA" x="325.24" y="-1636.16" palette="0" colorinfo="-1" text="Program Counter Register">
+                <style>
+                    <fillcolor r="255" g="251" b="98"></fillcolor>
+                    <strokecolor r="176" g="172" b="0"></strokecolor>
+                </style>
+                <fillcolor r="255" g="251" b="98"></fillcolor>
+                <strokecolor r="176" g="172" b="0"></strokecolor>
+            </topic>
+            <topic id="4" parent="2" guid="D8jxVjoeq4ddd34UBNhx1Q" x="268.84" y="-1590.95" palette="0" colorinfo="-1" text="VM Stack">
+                <style>
+                    <fillcolor r="255" g="251" b="98"></fillcolor>
+                    <strokecolor r="176" g="172" b="0"></strokecolor>
+                </style>
+                <fillcolor r="255" g="251" b="98"></fillcolor>
+                <strokecolor r="176" g="172" b="0"></strokecolor>
+            </topic>
+            <topic id="5" parent="2" guid="JwZQDBjzNgJK6m1zCBgaDA" x="306.18" y="-1545.75" palette="0" colorinfo="-1" text="Native Method Stack">
+                <style>
+                    <fillcolor r="255" g="251" b="98"></fillcolor>
+                    <strokecolor r="176" g="172" b="0"></strokecolor>
+                </style>
+                <fillcolor r="255" g="251" b="98"></fillcolor>
+                <strokecolor r="176" g="172" b="0"></strokecolor>
+            </topic>
+            <topic id="6" parent="2" guid="LoIAjCm3cZkGPsA8OF7N9w" x="279.85" y="-1500.54" palette="0" colorinfo="-1" text="Method Area">
+                <style>
+                    <fillcolor r="255" g="210" b="93"></fillcolor>
+                    <strokecolor r="174" g="126" b="0"></strokecolor>
+                </style>
+                <fillcolor r="255" g="210" b="93"></fillcolor>
+                <strokecolor r="174" g="126" b="0"></strokecolor>
+            </topic>
+            <topic id="7" parent="2" guid="T_9FEFIRsCMWf3dkHeaBYA" x="254.84" y="-1455.34" palette="0" colorinfo="-1" text="Heap">
+                <style>
+                    <fillcolor r="255" g="210" b="93"></fillcolor>
+                    <strokecolor r="174" g="126" b="0"></strokecolor>
+                </style>
+                <fillcolor r="255" g="210" b="93"></fillcolor>
+                <strokecolor r="174" g="126" b="0"></strokecolor>
+            </topic>
+            <topic id="8" parent="1" guid="fv02cD2YXs9vqqC-Tvx7gA" x="142.19" y="-1407.13" text="GC"></topic>
+            <topic id="9" parent="1" guid="D6oO8gYqGCJs4vzgAgUFBQ" x="183.96" y="-1313.72" text="Exec SubSystem"></topic>
+            <topic id="10" parent="9" guid="aOQBnmR20m8mQYxnEnulvg" x="371.18" y="-1358.92" text="Class Structure"></topic>
+            <topic id="11" parent="9" x="363.41" y="-1313.72" text="Class Loader"></topic>
+            <topic id="12" parent="9" x="352.12" y="-1268.51" text="ByteCode"></topic>
+            <topic id="13" parent="1" guid="clr2EmK56Xt3k9WPJDyHYg" x="155.14" y="-1059.09" text="Moinitor"></topic>
+            <topic id="14" parent="13" guid="C80i2RbUxQxfy0AxOk8jZQ" x="281.66" y="-1217.31" text="jstack"></topic>
+            <topic id="15" parent="13" guid="SyndBlGud1I5XUb4WvLOXA" x="278.15" y="-1172.10" text="jmap"></topic>
+            <topic id="16" parent="13" guid="QVAtwAG2Z0BBMZHvNJ42xw" x="276.47" y="-1126.89" text="jstat"></topic>
+            <topic id="17" parent="13" guid="KZekIBkabL4tdVC6Xr8Wbg" x="276.47" y="-1081.69" text="jhat"></topic>
+            <topic id="18" parent="13" x="276.47" y="-1036.48" text="jps"></topic>
+            <topic id="19" parent="13" x="276.59" y="-991.28" text="jinfo"></topic>
+            <topic id="20" parent="13" x="292.16" y="-946.07" text="Jconsole"></topic>
+            <topic id="21" parent="13" x="292.81" y="-900.87" text="VisualVM"></topic>
+            <topic id="22" parent="1" guid="QIw2pWYKAG1yrfFcZ5KGsg" x="173.30" y="-827.06" text="Tunning Case"></topic>
+            <topic id="23" parent="22" x="314.85" y="-849.66" text="OOM"></topic>
+            <topic id="24" parent="22" x="348.70" y="-804.45" text="StackOverFlow"></topic>
+            <topic id="25" parent="0" guid="fZE_LlO23SJxOrwsPuFs7g" x="41.41" y="24.27" palette="7" colorinfo="7" text="Design"></topic>
+            <topic id="26" parent="25" guid="QV8wYzzk_Qhr0G0SQFxm0w" x="175.40" y="-672.36" text="正交原则"></topic>
+            <topic id="27" parent="26" x="310.47" y="-745.48" text="消除重复"></topic>
+            <topic id="28" parent="26" x="317.47" y="-696.73" text="分离关注点"></topic>
+            <topic id="29" parent="26" x="324.47" y="-647.98" text="缩小依赖范围"></topic>
+            <topic id="30" parent="26" x="324.47" y="-599.23" text="稳定方向依赖"></topic>
+            <topic id="31" parent="25" guid="en1b2Ft7DdAPWOJTCidqyg" x="168.79" y="-455.85" text="SOLID"></topic>
+            <topic id="32" parent="31" x="338.09" y="-546.26" text="Single Responsiblity"></topic>
+            <topic id="33" parent="31" x="312.42" y="-501.05" text="Open Closed"></topic>
+            <topic id="34" parent="31" x="334.19" y="-455.85" text="Liskov Substitution"></topic>
+            <topic id="35" parent="31" x="340.82" y="-410.64" text="Interface Segregation"></topic>
+            <topic id="36" parent="31" x="343.94" y="-365.43" text="Dependency Inversion"></topic>
+            <topic id="37" parent="25" guid="VO3iZ2-3-Lt9odMONUaaBA" x="195.63" y="-246.42" text="Simple Design"></topic>
+            <topic id="38" parent="37" x="367.69" y="-314.23" text="Pass its tests"></topic>
+            <topic id="39" parent="37" guid="TH01pxWhXVZgjBfScKzXFg" x="391.77" y="-269.02" text="Minimize duplication"></topic>
+            <topic id="40" parent="37" guid="UhYVKCFMz44ViFAbHy_OcA" x="377.79" y="-223.82" text="Maximize Clarity"></topic>
+            <topic id="41" parent="37" x="388.30" y="-178.61" text="Has fewer elements"></topic>
+            <topic id="42" parent="25" guid="HFO9K3aNHbN2UgNEe1190g" x="215.08" y="-130.41" text="Evolutionary Design"></topic>
+            <topic id="43" parent="25" guid="BiTZWU4_iXsdJV3AW5Iduw" x="162.57" y="198.58" text="DDD"></topic>
+            <topic id="44" parent="43" guid="AKvXlhClAXZ8KT8kBMadAw" x="284.80" y="-80.43" text="消化知识"></topic>
+            <topic id="45" parent="43" x="298.80" y="-31.68" text="统一交流语言"></topic>
+            <topic id="46" parent="43" guid="PYHsJHezLugUroVJATOb3g" x="326.03" y="176.52" text="Model Driven Design"></topic>
+            <topic id="47" parent="46" guid="Uwhe3l7lkPUFcYI-FGePQg" x="517.65" y="18.30" text="Layered ARE"></topic>
+            <topic id="48" parent="46" guid="G8qN_nFB71BUw_YVFkfp1g" x="493.78" y="63.50" text="Entity"></topic>
+            <topic id="49" parent="46" guid="TLz9IWQc2Gkgb1SgLmIjFA" x="516.35" y="108.71" text="Value Object"></topic>
+            <topic id="50" parent="46" guid="YFi3nSybxHB460qlQQtpQA" x="499.25" y="153.91" text="Service"></topic>
+            <topic id="51" parent="46" x="498.83" y="199.12" text="Module"></topic>
+            <topic id="52" parent="46" guid="XwnAp1XwF_QfT1oSZS6aAA" x="508.95" y="244.32" text="Aggregate"></topic>
+            <topic id="53" parent="46" x="499.62" y="289.53" text="Facotry"></topic>
+            <topic id="54" parent="46" x="514.79" y="334.74" text="Respository"></topic>
+            <topic id="55" parent="43" guid="JC-hbzx0t9JAwLe7JNt5BQ" x="295.69" y="408.55" text="Refactoring"></topic>
+            <topic id="56" parent="55" guid="TRm5SDzp9t8pohYICpulbA" x="461.11" y="385.94" text="Clear Concept"></topic>
+            <topic id="57" parent="55" guid="NJ0lyD5Qm1ELz0FKB6WEpg" x="482.11" y="431.15" text="Deep Understanding"></topic>
+            <topic id="58" parent="43" guid="HTYsRxFAw4kcDRPoOQC6RQ" x="295.69" y="479.35" text="Soft Design"></topic>
+            <topic id="59" parent="58" guid="AoKy2XDRCf5PSKQbTz-v-g" x="511.28" y="479.35" text="Intention-revealing interfaces"></topic>
+            <topic id="60" parent="25" x="162.05" y="527.56" text="TDD"></topic>
+            <topic id="61" parent="25" guid="VW1EYjJsThtzf6O2IJchaA" x="163.74" y="572.77" text="KISS"></topic>
+            <topic id="62" parent="25" x="162.05" y="617.97" text="DRY"></topic>
+            <topic id="63" parent="25" guid="YaUl83w73zQMLG_PSoknkQ" x="230.24" y="663.18" text="Functional Programming"></topic>
+            <topic id="64" parent="25" guid="Q7GvultVL_ZKNwusBD3mYA" x="223.65" y="708.38" text="Reactive Programming"></topic>
+            <topic id="65" parent="25" x="186.29" y="753.59" text="Refactoring"></topic>
+            <topic id="66" parent="25" x="183.96" y="798.79" text="CleanCode"></topic>
+            <topic id="67" parent="0" x="57.85" y="847.75" palette="3" colorinfo="3" text="Concurrent"></topic>
+            <topic id="68" parent="0" x="38.75" y="894.46" palette="4" colorinfo="4" text="Cache"></topic>
+            <topic id="69" parent="0" guid="BBrFbSzc6q57ie_ED-foRg" x="59.62" y="941.17" palette="5" colorinfo="5" text="Distributing"></topic>
+        </topics>
+        <relations></relations>
+    </mindmap>
+</simplemind-mindmaps>
